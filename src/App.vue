@@ -23,7 +23,7 @@
         seconds.value = 0;
         minutes.value++;
       }
-      if (minutes.value >= 1) {
+      if (minutes.value >= 25) {
         clearInterval(timeInterval.value);
         result.value++;
         startBreak();
@@ -34,7 +34,7 @@
     //START THE BREAK AFTER 25 MINUTES
     const startBreak = () => {
       playBreakSound();
-      minutes.value = 1;
+      minutes.value = 5;
       seconds.value = 0;
       isBreak.value = true;
       timeInterval.value = setInterval(setBreakCounter, 1000);
