@@ -1,2 +1,2 @@
-# Pomodoro--Counter-Vue
+# Pomodoro-Counter-Vue
 A Pomodoro Counter with Vue.js
