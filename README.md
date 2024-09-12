@@ -1,4 +1,5 @@
 # Pomodoro-Counter-Vue
+<img width="742" alt="Captura de pantalla 2024-09-12 a la(s) 6 19 52 p  m" src="https://github.com/user-attachments/assets/e90752b0-5328-4e19-ae99-d658c1b98b9e">
 
 A Pomodoro Counter with Vue.js and Bootstrap for practice.
 
