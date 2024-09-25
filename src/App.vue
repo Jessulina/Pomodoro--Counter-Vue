@@ -98,6 +98,7 @@
       clearInterval(timeInterval.value);
       minutes.value = 0;
       seconds.value = 0;
+      result.value = 0;
       isPressed.value = false;
       isBreak.value = false;
       pauseBreakSound();
